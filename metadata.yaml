@@ -1,0 +1,30 @@
+_repo: Curiosities-of-Puritan-Nomenclature_39284
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bardsley, Charles Wareing Endell
+    aliases:
+    - Bardsley, C. W. (Charles Wareing)
+    - Bardsley, Charles W.
+    birthdate: 1843
+    deathdate: 1898
+    gutenberg_agent_id: '39939'
+    url: http://www.gutenberg.org/2009/agents/39939
+description: ''
+gutenberg_issued: '2012-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39284'
+  lccn: '10002221'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CS'
+- !lcsh 'Names, Personal -- English'
+title: Curiosities of Puritan Nomenclature
+url: http://www.gutenberg.org/ebooks/39284
